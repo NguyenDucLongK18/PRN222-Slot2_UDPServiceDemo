@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\UDPServiceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3395B4-C48C-4991-A66D-E4A8527EE7E8}|UDPClientService\\UDPClientApp.csproj|d:\\prn222\\udpserviceapp\\udpclientservice\\udpclientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D3395B4-C48C-4991-A66D-E4A8527EE7E8}|UDPClientService\\UDPClientApp.csproj|solutionrelative:udpclientservice\\udpclientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBF6338-1949-42E7-8CC7-84D40E4EF86D}|UDPServiceApp\\UDPServiceApp.csproj|d:\\prn222\\udpserviceapp\\udpserviceapp\\udpserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFBF6338-1949-42E7-8CC7-84D40E4EF86D}|UDPServiceApp\\UDPServiceApp.csproj|solutionrelative:udpserviceapp\\udpserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3395B4-C48C-4991-A66D-E4A8527EE7E8}|UDPClientService\\UDPClientService.csproj|d:\\prn222\\udpserviceapp\\udpclientservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3395B4-C48C-4991-A66D-E4A8527EE7E8}|UDPClientService\\UDPClientService.csproj|solutionrelative:udpclientservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBF6338-1949-42E7-8CC7-84D40E4EF86D}|UDPServiceApp\\UDPServiceApp.csproj|d:\\prn222\\udpserviceapp\\udpserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBF6338-1949-42E7-8CC7-84D40E4EF86D}|UDPServiceApp\\UDPServiceApp.csproj|solutionrelative:udpserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UDPClientApp",
+              "DocumentMoniker": "D:\\PRN222\\UDPServiceApp\\UDPClientService\\UDPClientApp.csproj",
+              "RelativeDocumentMoniker": "UDPClientService\\UDPClientApp.csproj",
+              "ToolTip": "D:\\PRN222\\UDPServiceApp\\UDPClientService\\UDPClientApp.csproj",
+              "RelativeToolTip": "UDPClientService\\UDPClientApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T08:02:11.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UDPServiceApp",
+              "DocumentMoniker": "D:\\PRN222\\UDPServiceApp\\UDPServiceApp\\UDPServiceApp.csproj",
+              "RelativeDocumentMoniker": "UDPServiceApp\\UDPServiceApp.csproj",
+              "ToolTip": "D:\\PRN222\\UDPServiceApp\\UDPServiceApp\\UDPServiceApp.csproj",
+              "RelativeToolTip": "UDPServiceApp\\UDPServiceApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T08:02:08.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\UDPServiceApp\\UDPClientService\\Program.cs",
+              "RelativeDocumentMoniker": "UDPClientService\\Program.cs",
+              "ToolTip": "D:\\PRN222\\UDPServiceApp\\UDPClientService\\Program.cs",
+              "RelativeToolTip": "UDPClientService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:59:30.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\UDPServiceApp\\UDPServiceApp\\Program.cs",
+              "RelativeDocumentMoniker": "UDPServiceApp\\Program.cs",
+              "ToolTip": "D:\\PRN222\\UDPServiceApp\\UDPServiceApp\\Program.cs",
+              "RelativeToolTip": "UDPServiceApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:57:43.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

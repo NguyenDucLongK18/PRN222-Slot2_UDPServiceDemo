@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UDPClientApp/1.0.0": {
+        "dependencies": {
+          "UDPServiceApp": "1.0.0"
+        },
+        "runtime": {
+          "UDPClientApp.dll": {}
+        }
+      },
+      "UDPServiceApp/1.0.0": {
+        "runtime": {
+          "UDPServiceApp.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UDPClientApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UDPServiceApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
